@@ -41,7 +41,7 @@ var config = {
         "江苏": "./imgs/suzhou.jpg",
         "还有很多地方": "./imgs/xian2.jpg",
         //"今年的礼物也许有点特别~": "./imgs/chuo.gif",
-        "我希望你能喜欢": "./imgs/xian1.jpeg",
+        "我希望你能喜欢": "./imgs/xian1.jpg",
         "等我回去": "./imgs/yu.jpg",
         "然后还有其他礼物~": "./imgs/zhuhai2.jpg",
         "以及爱你的我！": "./imgs/biaobai.gif",
