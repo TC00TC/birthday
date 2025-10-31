@@ -30,7 +30,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给我": "./imgs/songxinxin.jpeg",
+        "送给我": "./imgs/songxinxin.jpg",
         "最心爱的孙蔚蔚❥(^_-)": "./imgs/qipao.jpg",
         "今天是你的生日": "./imgs/shengri.jpg",
         "这是我们在一起的": "./imgs/chi.jpg",
@@ -45,7 +45,7 @@ var config = {
         "等我回去": "./imgs/yu.jpg",
         "然后还有其他礼物~": "./imgs/zhuhai2.jpg",
         "以及爱你的我！": "./imgs/biaobai.gif",
-        "生日快乐~~": "./imgs/biaobai.jpg"
+        "生日快乐~~": "./imgs/biaobai.gif"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
