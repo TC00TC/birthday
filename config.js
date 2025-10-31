@@ -32,10 +32,10 @@ var config = {
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
         "最心爱的孙蔚蔚❥(^_-)": "./imgs/qipao.jpg",
-        "今天是你的生日": "./imgs/shengri.jpeg",
+        "今天是你的生日": "./imgs/shengri.jpg",
         "这是我们在一起的": "./imgs/chi.jpg",
         "第一个生日！": "./imgs/kaka.jpg",
-        "这10个月以来，我们去过很多地方": "./imgs/yiqi.jpeg",
+        "这10个月以来，我们去过很多地方": "./imgs/yiqi.jpg",
         "沈阳周边": "./imgs/liaoning1.jpg",
         "珠海": "./imgs/zhuhai.jpg",
         "江苏": "./imgs/suzhou.jpg",
