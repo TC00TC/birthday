@@ -44,7 +44,7 @@ var config = {
         "我希望你能喜欢": "./imgs/xian1.jpeg",
         "等我回去": "./imgs/yu.jpg",
         "然后还有其他礼物~": "./imgs/zhuhai2.jpg",
-        "以及爱你的我！": "./imgs/biaobai.jpg",
+        "以及爱你的我！": "./imgs/biaobai.gif",
         "生日快乐~~": "./imgs/biaobai.jpg"
     },
     
